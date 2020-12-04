@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "//mern-beginner-frontend/static/css/main.4a46437d.chunk.css",
-    "main.js": "//mern-beginner-frontend/static/js/main.98830b32.chunk.js",
-    "main.js.map": "//mern-beginner-frontend/static/js/main.98830b32.chunk.js.map",
-    "runtime-main.js": "//mern-beginner-frontend/static/js/runtime-main.62b89ae6.js",
-    "runtime-main.js.map": "//mern-beginner-frontend/static/js/runtime-main.62b89ae6.js.map",
-    "static/js/2.2ac537e2.chunk.js": "//mern-beginner-frontend/static/js/2.2ac537e2.chunk.js",
-    "static/js/2.2ac537e2.chunk.js.map": "//mern-beginner-frontend/static/js/2.2ac537e2.chunk.js.map",
-    "static/js/3.aa19ca29.chunk.js": "//mern-beginner-frontend/static/js/3.aa19ca29.chunk.js",
-    "static/js/3.aa19ca29.chunk.js.map": "//mern-beginner-frontend/static/js/3.aa19ca29.chunk.js.map",
-    "index.html": "//mern-beginner-frontend/index.html",
-    "static/css/main.4a46437d.chunk.css.map": "//mern-beginner-frontend/static/css/main.4a46437d.chunk.css.map",
-    "static/js/2.2ac537e2.chunk.js.LICENSE.txt": "//mern-beginner-frontend/static/js/2.2ac537e2.chunk.js.LICENSE.txt"
+    "main.css": "/mern-beginner-frontend/static/css/main.4a46437d.chunk.css",
+    "main.js": "/mern-beginner-frontend/static/js/main.15d1b2b6.chunk.js",
+    "main.js.map": "/mern-beginner-frontend/static/js/main.15d1b2b6.chunk.js.map",
+    "runtime-main.js": "/mern-beginner-frontend/static/js/runtime-main.9d1ae83f.js",
+    "runtime-main.js.map": "/mern-beginner-frontend/static/js/runtime-main.9d1ae83f.js.map",
+    "static/js/2.735c59fb.chunk.js": "/mern-beginner-frontend/static/js/2.735c59fb.chunk.js",
+    "static/js/2.735c59fb.chunk.js.map": "/mern-beginner-frontend/static/js/2.735c59fb.chunk.js.map",
+    "static/js/3.aa19ca29.chunk.js": "/mern-beginner-frontend/static/js/3.aa19ca29.chunk.js",
+    "static/js/3.aa19ca29.chunk.js.map": "/mern-beginner-frontend/static/js/3.aa19ca29.chunk.js.map",
+    "index.html": "/mern-beginner-frontend/index.html",
+    "static/css/main.4a46437d.chunk.css.map": "/mern-beginner-frontend/static/css/main.4a46437d.chunk.css.map",
+    "static/js/2.735c59fb.chunk.js.LICENSE.txt": "/mern-beginner-frontend/static/js/2.735c59fb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.62b89ae6.js",
-    "static/js/2.2ac537e2.chunk.js",
+    "static/js/runtime-main.9d1ae83f.js",
+    "static/js/2.735c59fb.chunk.js",
     "static/css/main.4a46437d.chunk.css",
-    "static/js/main.98830b32.chunk.js"
+    "static/js/main.15d1b2b6.chunk.js"
   ]
 }
