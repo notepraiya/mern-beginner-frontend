@@ -17,7 +17,7 @@ function App() {
       {!user ? (
         <Login />
       ) : (
-        <BrowserRouter basename="/react-beginner-chat" >
+        <BrowserRouter basename="/mern-beginner-frontend" >
         <Header  />
         <div className="app_body">
           <Sidebar />
